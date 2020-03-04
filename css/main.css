@@ -1,0 +1,25 @@
+/* Hero */
+
+/* Services */
+
+/* OurTeam */
+
+#OurTeam>div>div>div>img{
+    max-width: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+}
+
+/* Portfolio */
+
+.infoFolio>p{
+    padding: 5%;
+}
+
+#Portfolio>div>div>img{
+    max-width: 100%;
+}
+
+
+/* ContactUs*/

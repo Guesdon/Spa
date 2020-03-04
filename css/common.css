@@ -1,0 +1,29 @@
+html{
+    background-color: hsl(184, 23%, 89%);
+}
+
+body{
+    background-color: hsl(184, 23%, 70%);
+    border: gray solid 3px;
+}
+
+.text-center{
+    text-align: center;
+    
+}
+
+.Border-Right{
+    border-right: gray solid 3px;
+}
+
+.Border-Bottom{
+    border-bottom: gray solid 3px;
+}
+
+.No-Padding{
+    padding: 0px; 
+}
+
+.No-Margin{
+    margin: 0px;
+}

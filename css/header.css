@@ -1,0 +1,26 @@
+header{
+    border-bottom: gray solid 3px;
+}
+
+#headerLogo{
+    max-width: 100%;
+}
+
+#headerMenu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#headerMenu>div{
+    margin-left: auto;
+}
+
+#headerMenu>div>div{
+    display: flex;
+}
+
+#headerMenu>div>div>a>div{
+    background-color: gray;
+    padding: 5px;
+}
