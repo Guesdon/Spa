@@ -2,6 +2,12 @@
 
 /* Services */
 
+.imgServices{
+    border-radius: 50%;
+    margin: 30px;
+    max-height: 150px;
+}
+
 /* OurTeam */
 
 #OurTeam>div>div>div>img{
@@ -23,3 +29,15 @@
 
 
 /* ContactUs*/
+
+.map-container-6 iframe, .card{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.formspa{
+    margin-top: 30px;
+}
